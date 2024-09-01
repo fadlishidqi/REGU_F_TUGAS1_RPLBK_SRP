@@ -12,5 +12,5 @@ Contoh yang disediakan dalam repositori ini menunjukkan dua versi dari program s
 ## Konten
 
 - **`Tanpa SRP.py`**: Script Python yang menunjukkan contoh pelanggaran SRP, di mana satu kelas (`Employee`) bertanggung jawab untuk beberapa tugas.
-- **`Dengan SRp.py`**: Script Python yang menunjukkan penerapan SRP yang benar dengan memisahkan tanggung jawab ke dalam beberapa kelas.
+- **`Dengan SRP.py`**: Script Python yang menunjukkan penerapan SRP yang benar dengan memisahkan tanggung jawab ke dalam beberapa kelas.
 - **`README.md`**: Dokumentasi yang menjelaskan contoh kode dan manfaat penerapan SRP.
